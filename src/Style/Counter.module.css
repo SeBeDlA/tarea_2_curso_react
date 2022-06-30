@@ -1,0 +1,9 @@
+.row{
+  display: flex;
+  width: 100vw;
+  justify-content: center;
+}
+
+.counter{
+  width: 30px;
+}
